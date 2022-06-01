@@ -1,8 +1,18 @@
-# runke
+# thierry
 
 ## Project setup
 ```
 npm install
+```
+
+## Api install
+```
+npm i json-server
+```
+
+## Api run
+```
+npm run backend
 ```
 
 ### Compiles and hot-reloads for development
